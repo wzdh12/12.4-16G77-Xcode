@@ -11,4 +11,4 @@ iphone升级到12.4，发现XCode无法真机调试。原因是XCode版本低于
 
 ![image](https://github.com/wzdh12/12.4-16G77-Xcode-/blob/master/images/wechat_image.png)
 
-4. 重启XCode。 搞定，收工。
+4. 重启XCode,搞定，收工。
