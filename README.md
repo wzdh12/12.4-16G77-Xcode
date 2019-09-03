@@ -6,4 +6,5 @@ iphone升级到12.4，发现XCode无法真机调试。原因是XCode版本低于
 2.在应用程序找到Xcode.app,右键，根据下面路径依次进入
   Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/DeviceSupport
 3.把压缩包解压放进文件夹
+
 4. 把真机拔离电脑，重启XCode。 即可安装app到手机调试
